@@ -34,7 +34,11 @@ const HeroSection = () => {
           {/* Name & Info */}
           <div className="">2021 - Kids - Movie</div>
           <div>
-            <img className="w-[353px]" src="/luca.png" alt="" />
+            <img
+              className="w-[353px]"
+              src="/Lucatransparentlogowhite.png"
+              alt=""
+            />
           </div>
           <div className="w-[330px]">
             <p className="leading-[25px]  ">
